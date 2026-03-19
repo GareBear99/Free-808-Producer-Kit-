@@ -1,4 +1,4 @@
-# 🔊 AAAAA 808 Producer Kit
+# 🔊 AAA 808 Producer Kit
 
 > **94 hand-crafted 808 bass samples** — tuned to every chromatic key, built for trap, hip-hop, drill, and beyond.
 

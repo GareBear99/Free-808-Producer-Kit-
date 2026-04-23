@@ -1,7 +1,7 @@
 <!-- tizwildin-pricing:start -->
-## 💎 Free 808 Producer Kit — **$1** on paid platforms · **free** on GitHub + TizWildin website
+## 💎 Free 808 Producer Kit — **$1 USD** on paid platforms · **free** on GitHub + TizWildin website
 
-This pack sells for **$1** on Bandcamp, Looperman, Sample Focus, Splice, and other commercial sample platforms — and is **free forever** from the official channels:
+This pack sells for **$1 USD** on Bandcamp, Looperman, Sample Focus, Splice, and other commercial sample platforms — and is **free forever** from the official channels:
 
 - [⬇️ Download the current ZIP](https://github.com/GareBear99/Free-808-Producer-Kit/archive/refs/heads/main.zip) — full pack, always up to date
 - [🔖 Releases page](https://github.com/GareBear99/Free-808-Producer-Kit/releases) — tagged versions
